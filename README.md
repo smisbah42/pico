@@ -10,3 +10,4 @@ y=6
 z=x+y
 print("hello, the sum=",z)
 ```
+**Hardware of Pico**
