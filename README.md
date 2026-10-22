@@ -4,6 +4,9 @@
 ## We Micropython language in programing pico
 ## A sample Micropython code is shown
 
-```Micropytho code
-print("hello")
+```Micropython sample code
+x=4
+y=6
+z=x+y
+print("hello, the sum=",z)
 ```
